@@ -1,0 +1,8 @@
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConsoleApp_Structs\bin\Debug\ConsoleApp_Structs.exe.config
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConsoleApp_Structs\bin\Debug\ConsoleApp_Structs.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConsoleApp_Structs\bin\Debug\ConsoleApp_Structs.pdb
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConsoleApp_Structs\obj\Debug\ConsoleApp_Structs.csproj.AssemblyReference.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConsoleApp_Structs\obj\Debug\ConsoleApp_Structs.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConsoleApp_Structs\obj\Debug\ConsoleApp_Structs.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConsoleApp_Structs\obj\Debug\ConsoleApp_Structs.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConsoleApp_Structs\obj\Debug\ConsoleApp_Structs.pdb
